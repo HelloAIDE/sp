@@ -1,0 +1,14 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:11
+#EXTINF:10.120000,
+https://u1-203.ecukwai.com/bs2/image-kwaishop-product/item-3182427168-e716c19c26e746289b720ae34b6feb23.jpg
+#EXTINF:7.160000,
+https://u2-203.ecukwai.com/bs2/image-kwaishop-product/item-3182427168-416ccab7ffd14e36b5ea8ad5832ff307.jpg
+#EXTINF:10.000000,
+https://u1-203.ecukwai.com/bs2/image-kwaishop-product/item-3182427168-a668f0b8b15c4172a212984ca65e4dce.jpg
+#EXTINF:1.600000,
+https://u2-203.ecukwai.com/bs2/image-kwaishop-product/item-3182427168-00aec4d5d14d44fbbf1249121e5cef75.jpg
+#EXT-X-ENDLIST
